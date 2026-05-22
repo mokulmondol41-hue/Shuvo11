@@ -5,7 +5,7 @@ import os
 import requests
 
 # --- কনফিগারেশন ---
-API_TOKEN = '8476418925:AAEC9BCB5p4HzI51kFQV7KGWvzyYOM7QBdY'
+API_TOKEN = '8476418925:AAE57Jcsa_VKnh_LC8vCmRJN03TKA6VBG0g'
 ADMIN_ID = 7596820363  
 LOG_GROUP_ID = -1002467930331 
 CHANNELS = ["@shuvobhai533", "@shuvo_bhai11"] 
