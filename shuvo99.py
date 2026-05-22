@@ -13,7 +13,7 @@ DB_FILE = "users_db.json"
 
 # --- SMM PANEL কনফিগারেশন ---
 SMM_API_URL = "https://rxsmm.top/api/v2"
-SMM_API_KEY = "0d042abd54422c1750d174b47f07846f"
+SMM_API_KEY = "dd70fd0310730fa0a5c3edcd2ae13439"
 SMM_SERVICE_ID = "13554"
 
 bot = telebot.TeleBot(API_TOKEN, parse_mode="HTML")
